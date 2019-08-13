@@ -1,4 +1,4 @@
-# Programming Basics: Ternary
+# Programming Basics: Ternary Operator
 
 These exercises are designed to make you more comfortable with the ternary operator. 
 
