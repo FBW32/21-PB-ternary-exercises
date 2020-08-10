@@ -12,5 +12,10 @@ These exercises are designed to make you more comfortable with the ternary opera
 
 5. Declare a variable named okMarie. Check if there is 'cake' - if so, print "Let them eat cake". If not, print "Oh, bother". 
 
+6. Check if the following numbers are even numbers. Use a ternary and if the number is even print `30 is even`, else print that it is odd.
+* 30
+* 939
+* 40.9
+
 
 
