@@ -8,7 +8,7 @@ let isDog = isDogChance[Math.floor(Math.random() * isDogChance.length)];
 
 let patDog = (isDog) ? "pat, pat!" : "find me a dog to pat!";
 console.log(patDog);
-// find me a dog to pat
+// random answer provided
 
 
 
@@ -20,7 +20,7 @@ let currentSpeed = Math.floor(Math.random() * 80) + 0;
 
 let speedCheck = (currentSpeed > speedLimit) ? "you're going too fast!" : "You're driving below the speed limit, Oma!";
 console.log(speedCheck);
-// You're driving below the speed limit, Oma!
+// random answer provided
 
 
 
@@ -32,7 +32,7 @@ let currentAge = Math.floor(Math.random() * 100) + 0;
 
 let ageCheck = (currentAge < ageLegalAge) ? "serve butter beer!" : "serve beer!";
 console.log(ageCheck);
-// serve beer!
+// random answer provided
 
 
 
@@ -44,7 +44,7 @@ let isStudent = isStudentResult[Math.floor(Math.random() * isStudentResult.lengt
 
 let isStudentCheck = (isStudent === true) ? "Ticket costs €5,00!" : "Ticket costs €12,00!";
 console.log(isStudentCheck);
-// 
+// random answer provided
 
 
 
@@ -56,7 +56,7 @@ let isCake = isCakeChance[Math.floor(Math.random() * isCakeChance.length)];
 
 let okMarie = (isCake === "cake") ? "Let them eat cake!" : "Oh, bother!";
 console.log(okMarie);
-// 
+// random answer provided
 
 
 
