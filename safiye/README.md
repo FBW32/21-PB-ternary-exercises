@@ -1,6 +1,6 @@
 # Programming Basics: Ternary
 
-These exercises are designed to make you more comfortable with the ternary operator. 
+These exercises are designed to make you more comfortable with the ternary operator.
 
 1. Declare a variable named isDog. If true, print 'pat, pat' and if not, print 'find me a dog to pat!'
 
@@ -10,12 +10,10 @@ These exercises are designed to make you more comfortable with the ternary opera
 
 4. Declare a variable named isStudent. If true, print "Ticket costs €5,00". If false, print "Ticket costs €12,00".
 
-5. Declare a variable named okMarie. Check if there is 'cake' - if so, print "Let them eat cake". If not, print "Oh, bother". 
+5. Declare a variable named okMarie. Check if there is 'cake' - if so, print "Let them eat cake". If not, print "Oh, bother".
 
 6. Check if the following numbers are even numbers. Use a ternary and if the number is even print `30 is even`, else print that it is odd.
-* 30
-* 939
-* 40.9
 
-
-
+- 30
+- 939
+- 40.9
